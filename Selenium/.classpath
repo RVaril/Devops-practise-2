@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/gson-2.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/guava-23.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/libs/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/client-combined-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Seleniumnew/client-combined-3.8.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sanil/Downloads/geckodriver-v0.19.0-win64(1)/geckodriver.exe"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
